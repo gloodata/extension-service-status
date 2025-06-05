@@ -69,7 +69,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "fastapi", specifier = ">=0.115.12" },
-    { name = "glootil", specifier = ">=0.2.4" },
+    { name = "glootil", specifier = ">=0.2.5" },
     { name = "httpx", specifier = ">=0.28.1" },
     { name = "uvicorn", specifier = ">=0.34.3" },
 ]
@@ -90,11 +90,11 @@ wheels = [
 
 [[package]]
 name = "glootil"
-version = "0.2.4"
+version = "0.2.5"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/d6/32/df85ca9c607cc47d82f2f9419bec720303a15809d41fcd139e6b8ef55745/glootil-0.2.4.tar.gz", hash = "sha256:e4371729d9133ced4bb7f41949903d97c630e43d0e28b9932eb2650d3be735ca", size = 21257, upload-time = "2025-05-14T08:15:16.768Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/30/4b/dbc2e0de7f7c49d1d31051476ddb31259133d2ad4731d1dea31b7356bb54/glootil-0.2.5.tar.gz", hash = "sha256:cb9c9ad85fc708ec6c6109d944660bcb73ca3322173e7bd477ff1b8d175c801a", size = 21281, upload-time = "2025-06-05T08:39:18.167Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/82/a8/0cbb7c5f1bf0001567e637e7a9a9314027976b034154520e50872ce9b6f7/glootil-0.2.4-py3-none-any.whl", hash = "sha256:162710fc084024da76931eba977f7ac7418073d3bb6a17aaa87113a78d7a8e67", size = 12943, upload-time = "2025-05-14T08:15:15.841Z" },
+    { url = "https://files.pythonhosted.org/packages/e1/59/5808f4e4fb68d2794344db5f1091da6ec1011fe104d71ccfe30c322833fd/glootil-0.2.5-py3-none-any.whl", hash = "sha256:8cec48114557f8b40cbe761b7305024fce92d38879c43a22565dee73d17b358d", size = 12956, upload-time = "2025-06-05T08:39:16.388Z" },
 ]
 
 [[package]]
