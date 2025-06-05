@@ -2,6 +2,8 @@
 
 A Python extension for [Gloodata](https://gloodata.com/) to explore service status for services that provide them via an HTTP API.
 
+[🎥 Watch Youtube Demo](https://www.youtube.com/watch?v=7fam5OxI-PU)
+
 ![Extension Preview](https://raw.githubusercontent.com/gloodata/extension-service-status/refs/heads/main/resources/ext-preview.webp)
 
 ## Prerequisites
